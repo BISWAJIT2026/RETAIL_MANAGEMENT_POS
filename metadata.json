@@ -1,0 +1,7 @@
+{
+  "name": "RETAIL MANAGEMENT POS - Educational Retail Management",
+  "description": "An enterprise-grade inventory, POS, and billing system for book sellers, featuring real-time Excel synchronization simulation, barcode tracking, and automated invoice generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
